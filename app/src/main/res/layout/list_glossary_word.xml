@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#B8DFE8"
+    android:gravity="center_vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingBottom="8dp">
+
+    <ImageView
+        android:id="@+id/glossaryImage"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight=".75"
+        android:background="#82B5DD"
+        app:srcCompat="@drawable/health_literacy_label" />
+
+    <TextView
+        android:id="@+id/glossaryWord"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#DDDDDD"
+        android:gravity="center"
+        android:text="@string/chapter_1_label" />
+
+    <TextView
+        android:id="@+id/glossaryPronounce"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight=".75"
+        android:background="#82B5DD"
+        android:gravity="center"
+        android:text="@string/allergy_wlactivty_q" />
+
+    <TextView
+        android:id="@+id/glossaryMeaning"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:background="#DDDDDD"
+        android:gravity="center"
+        android:text="@string/allergy_wlactivty_a" />
+</LinearLayout>

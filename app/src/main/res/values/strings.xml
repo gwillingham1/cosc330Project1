@@ -1,0 +1,513 @@
+<resources>
+    <string name="app_name">COSC330Project1</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Log In</string>
+
+    <!--Table of Contents-->
+    <string name="health_lingo_label">Definitions</string>
+    <string name="chapter_1_label">Health Care</string>
+    <string name="chapter_2_label">Doctors</string>
+    <string name="chapter_3_label">Medicine</string>
+    <string name="chapter_4_label">Healthy Food</string>
+    <string name="chapter_5_label">Staying Healthy</string>
+    <string name="glossary_label">Words And Definitions</string>
+    <!--End Table of Contents-->
+
+    <!--Word Definition Matching Game-->
+    <string name="cultural_competence_word">Cultural Competence</string>
+    <string name="cultural_competence_definition">Behaviors, attitudes and policies that come together,
+        between people of differing cultures, that enables them to work together
+        effectively.</string>
+
+    <string name="numeracy_word">Numeracy</string>
+    <string name="numeracy_definition">The ability to understand mathematical information
+        to manage mathematical demands in a range of situations.</string>
+
+    <string name="plain_language_word">Plain Language</string>
+    <string name="plain_language_definition">Writing that is clear and to the point which takes
+        less time to read and understand.</string>
+
+    <string name="literacy_word">Literacy</string>
+    <string name="literacy_definition">Is understanding written words such that you can participate
+        in society, meet your goals and develop your knowledge and potential.</string>
+
+    <string name="health_literacy_word">Health Literacy</string>
+    <string name="health_literacy_definition">The degree that a person can understand basic
+        health information and available services so that you can make appropriate health
+        choices.</string>
+
+    <string name="population_health_word">Population Health</string>
+    <string name="population_health_definition">Moving resources from the hospital into the community
+        to support all aspects of wellness (examples: disease management, support groups, timely
+        treatment to avoid serious illness, home visits) by empowering people to take
+        responsibility for their own wellness.</string>
+
+    <!--string name="_word"> </string>
+    <string name="_definition"> </string-->
+    <!--End Word Definition Matching Game-->
+
+    <!--Word List Activity-->
+    <string name="co_pay_wlactivity_q1">When you pay a set fee every time you go to the doctor and your </string>
+    <string name="co_pay_wlactivity_q2"> pays the rest</string>
+    <string name="co_pay_wlactivity_a">health insurance</string>
+
+    <string name="emergency_wlactivity_q">When there is </string>
+    <string name="emergency_wlactivity_a">a serious problem and you need help right away</string>
+
+    <string name="health_insurance_wlactivity_q1">A program where you pay each </string>
+    <string name="health_insurance_wlactivity_q2"> and then the program pays for your health care</string>
+    <string name="health_insurance_wlactivity_a">month</string>
+
+    <string name="primary_care_center_wlactivity_q">A place where you go for all your basic health care needs. It could be </string>
+    <string name="primary_care_center_wlactivity_a">a health center, health clinic, or doctor\'s office</string>
+
+    <string name="allergy_wlactivty_q">Reaction to certain foods, medications, products, etc may cause </string>
+    <string name="allergy_wlactivty_a">rash, hives, sneezing, or other problems</string>
+
+    <string name="symptoms_wlactivity_q">Something that happens in the body that shows you have an </string>
+    <string name="symptoms_wlactivity_a">injury or illness</string>
+
+    <string name="otc_wlactivity_q">Medicine anyone can buy at a </string>
+    <string name="otc_wlactivity_a">pharmacy</string>
+
+    <string name="prescription_wlactivity_q1">You need one of these from a </string>
+    <string name="prescription_wlactivity_q2"> to buy certain medicines</string>
+    <string name="prescription_wlactivity_a">doctor</string>
+
+    <string name="side_effect_wlactivity_q1">An </string>
+    <string name="side_effect_wlactivity_q2"> you get from taking some medicines</string>
+    <string name="side_effect_wlactivity_a">unwanted result or symptom</string>
+
+    <string name="obesity_wlactivity_q">Being very overweight, a weight that is </string>
+    <string name="obesity_wlactivity_a">dangerous for your health</string>
+
+    <string name="sodium_wlactivity_q1">Another word for </string>
+    <string name="sodium_wlactivity_q2">. Should be eaten in limited amounts</string>
+    <string name="sodium_wlactivity_a">salt</string>
+
+
+
+    <!--End Word List Activity-->
+
+    <!--Glossary-->
+    <string name="header_picture">Picture</string>
+    <string name="header_word">Word</string>
+    <string name="header_pronounce">How do I say it?</string>
+    <string name="header_meaning">What does it mean?</string>
+
+    <string-array name="glossary_array">
+        <item>symptoms_picture</item>
+        <item name="adverse_reaction_word">Adverse Reaction</item>
+        <item name="adverse_reaction_pronunciation">AD vers RE act shun</item>
+        <item name="adverse_reaction_meaning">A serious unexpected or unwanted effect caused by
+            your medication that is not mentioned on the label or by your doctor</item>
+
+        <item>allergy_picture</item>
+        <item name="allergy_word">Allergy</item>
+        <item name="allergy_pronunciation">AL ler JEE</item>
+        <item name="allergy_meaning">Reaction to certain foods or other things, may cause rash,
+            hives, sneezing, or other problems</item>
+
+        <item>appointment_picture</item>
+        <item name="appointment_word">Appointment</item>
+        <item name="appointment_pronunciation">uh POINT ment</item>
+        <item name="appointment_meaning">A time to meet or agree to see someone</item>
+
+        <item>checkup_picture</item>
+        <item name="checkup_word">Checkup</item>
+        <item name="checkup_pronunciation">CHECK up</item>
+        <item name="checkup_meaning">A visit to the doctor when you are not sick, also called a
+            well visit</item>
+
+        <item>copay_picture</item>
+        <item name="co_pay_word">Co-Pay</item>
+        <item name="co_pay_pronunciation">CO paa</item>
+        <item name="co_pay_meaning">When you pay a set fee every time you go to the doctor and your
+            health insurance pays the rest</item>
+
+        <item>emergency_picture</item>
+        <item name="emergency_word">Emergency</item>
+        <item name="emergency_pronunciation">ee MER gen see</item>
+        <item name="emergency_meaning">When there is a serious problem and you need help right
+            away</item>
+
+        <item>fever_picture</item>
+        <item name="fever_word">Fever</item>
+        <item name="fever_pronunciation">FEE ver</item>
+        <item name="fever_meaning">When your body temperature is too high</item>
+
+        <item>fiber_picture</item>
+        <item name="fiber_word">Fiber</item>
+        <item name="fiber_pronunciation">FI bur</item>
+        <item name="fiber_meaning">Foods that help you feel full and helps your stool come
+            out</item>
+
+        <item>generic_picture</item>
+        <item name="generic_medicine_word">Generic Medicine</item>
+        <item name="generic_medicine_pronunciation">Gen AIR ik MED uh sin</item>
+        <item name="generic_medicine_meaning">Not a name brand medicine, usually less expensive than
+            the name brand</item>
+
+        <item>headache_picture</item>
+        <item name="headache_word">Headache</item>
+        <item name="headache_pronunciation">Hed A eek</item>
+        <item name="headache_meaning">Pain or ache in your head</item>
+
+        <item>health_history_picture</item>
+        <item name="health_history_word">Health History</item>
+        <item name="health_history_pronunciation">H elth HISS tor EE</item>
+        <item name="health_history_meaning">The health problems you had in the past</item>
+
+        <item>health_insurance_picture</item>
+        <item name="health_insurance_word">Health Insurance</item>
+        <item name="health_insurance_pronunciation">H elth In SHER uns</item>
+        <item name="health_insurance_meaning">A program where you pay each month and then the program
+            pays for your health care</item>
+
+        <item>immunization_picture</item>
+        <item name="immunization_word">Immunization</item>
+        <item name="immunization_pronunciation">IM yoon ZA Shun</item>
+        <item name="immunization_meaning">The process of becoming immune or resistant to an
+            infectious disease, typically by getting vaccines. It is good to stay up to date on these
+            and check with your doctor on what you need</item>
+
+        <item>label_picture</item>
+        <item name="label_word">Label</item>
+        <item name="label_pronunciation">LA bel</item>
+        <item name="label_meaning">On the bottle or box to describe the medicine and how to take
+            it</item>
+
+        <item>medical_interpreter_picture</item>
+        <item name="medical_interpreter_word">Medical Interpreter</item>
+        <item name="medical_interpreter_pronunciation">MED uh cal in TERP ret er</item>
+        <item name="medical_interpreter_meaning">A person who is trained to translate information from
+            doctor to patient and patient to doctor</item>
+
+        <item>medicine_picture</item>
+        <item name="medicine_word">Medicine</item>
+        <item name="medicine_pronunciation">MED uh sin</item>
+        <item name="medicine_meaning">Used when you are sick or have aches and pain to help make you
+            feel well</item>
+
+        <item>milliliter_picture</item>
+        <item name="milliliter_word">Milliliter</item>
+        <item name="milliliter_pronunciation">Mil e LEE Ter</item>
+        <item name="milliliter_meaning">Measurement of how much liquid medicine is needed\nCommon
+            abbreviation: mL</item>
+
+        <item>nutrition_picture</item>
+        <item name="nutrient_word">Nutrient</item>
+        <item name="nutrient_pronunciation">New TREE ent</item>
+        <item name="nutrient_meaning">In foods and needed by people to stay healthy</item>
+
+        <item>nutrition_picture</item>
+        <item name="nutrition_word">Nutrition</item>
+        <item name="nutrition_pronunciation">New TRISH un</item>
+        <item name="nutrition_meaning">How the body uses food to stay healthy</item>
+
+        <item>obesity_picture</item>
+        <item name="obesity_word">Obesity</item>
+        <item name="obesity_pronunciation">oh BEE sit ee</item>
+        <item name="obesity_meaning">Being very overweight, a weight that is dangerous for your
+            health</item>
+
+        <item>otc_picture</item>
+        <item name="otc_word">Over-the-counter (OTC)</item>
+        <item name="otc_pronunciation">O ver the COUNT er</item>
+        <item name="otc_meaning">Medicine anyone can buy at the store, you do not need a
+            prescription</item>
+
+        <item>pharmacy_picture</item>
+        <item name="pharmacy_word">Pharmacy</item>
+        <item name="pharmacy_pronunciation">FARM uh see</item>
+        <item name="pharmacy_meaning">Where you go to buy medicine</item>
+
+        <item>pharmacist_picture</item>
+        <item name="pharmacist_word">Pharmacist</item>
+        <item name="pharmacist_pronunciation">FARM us sist</item>
+        <item name="pharmacist_meaning">A person who works in the pharmacy, a person who fills
+            prescriptions</item>
+
+        <item>prescription_picture</item>
+        <item name="prescription_word">Prescription (Rx)</item>
+        <item name="prescription_pronunciation">Pre SCRIP shun</item>
+        <item name="prescription_meaning">You need one of these from a doctor to buy some kinds of
+            medicines</item>
+
+        <item>primary_care_center_picture</item>
+        <item name="primary_care_center_word">Primary Care Center</item>
+        <item name="primary_care_pronunciation">Pri Mar EE Kare Senter</item>
+        <item name="primary_care_meaning">The place you go for all your basic health care needs, could
+            be a health center, health clinic, or doctor\'s office</item>
+
+        <item>recipe_picture</item>
+        <item name="recipe_word">Recipe</item>
+        <item name="recipe_pronunciation">Re si PEE</item>
+        <item name="recipe_meaning">List of what goes into a meal and how to prepare it</item>
+
+        <item>side_effect_picture</item>
+        <item name="side_effect_word">Side Effect</item>
+        <item name="side_effect_pronunciation">SIDE e fekt</item>
+        <item name="side_effect_meaning">An unwanted result or symptom, you get from taking some
+            medicines</item>
+
+        <item>sodium_picture</item>
+        <item name="sodium_word">Sodium</item>
+        <item name="sodium_pronunciation">SO dee um</item>
+        <item name="sodium_meaning">Another word for salt</item>
+
+        <item>sore_throat_picture</item>
+        <item name="sore_throat_word">Sore Throat</item>
+        <item name="sore_throat_pronunciation">SOR th ROT</item>
+        <item name="sore_throat_meaning">When your throat hurts, it is hard to swallow</item>
+
+        <item>symptoms_picture</item>
+        <item name="symptoms_word">Symptoms</item>
+        <item name="symptoms_pronunciation">SIMP tums</item>
+        <item name="symptoms_meaning">Something that happens in the body that shows you have an injury
+            or illness</item>
+
+        <item>tablespoons_picture</item>
+        <item name="tablespoon_word">Tablespoon</item>
+        <item name="tablespoon_pronunciation">T A ble SPU n</item>
+        <item name="tablespoon_meaning">Common abbreviation: Tbsp\nEquals 3 teaspoons or 15 mL</item>
+
+        <item>teaspoon_picture</item>
+        <item name="teaspoon_word">Teaspoon</item>
+        <item name="teaspoon_pronunciation">Ti SPU n</item>
+        <item name="teaspoon_meaning">Measurement of how much liquid medicine is needed. \nCommon
+            abbreviation: tsp\nEquals 5 mL</item>
+
+        <item>urgent_care_center_picture</item>
+        <item name="urgent_care_center_word">Urgent Care Center</item>
+        <item name="urgent_care_center_pronunciation">Ur gent Kare Senter</item>
+        <item name="urgent_care_center_meaning">A category of walk-in clinic. Primarily treat
+            injuries or illnesses requiring immediate care, but not serious enough to require an ER
+            visit</item>
+
+        <item>vaccine_picture</item>
+        <item name="vaccine_word">Vaccine</item>
+        <item name="vaccine_pronunciation">Vak seen</item>
+        <item name="vaccine_meaning">Provides immunity against one or several diseases</item>
+
+        <item>vitamins_picture</item>
+        <item name="vitamins_word">Vitamins</item>
+        <item name="vitamins_pronunciation">Vita mins</item>
+        <item name="vitamins_meaning">A kind of nutrient in foods that help fight sickness and keep
+            the body strong and healthy</item>
+
+        <item>warning_label_picture</item>
+        <item name="warning_label_word">Warning Label</item>
+        <item name="warning_label_pronunciation">WAR ning LA bel</item>
+        <item name="warning_label_meaning">Describes dangers and what NOT to do when taking
+            medicines</item>
+
+    </string-array>
+
+        <string name="adverse_reaction_word">Adverse Reaction</string>
+        <string name="adverse_reaction_pronunciation">AD vers RE act shun</string>
+        <string name="adverse_reaction_meaning">A serious unexpected or unwanted effect caused by
+            your medication that is not mentioned on the label or by your doctor</string>
+
+        <string name="appointment_word">Appointment</string>
+        <string name="appointment_pronunciation">uh POINT ment</string>
+        <string name="appointment_meaning">A time to meet or agree to see someone</string>
+
+        <string name="allergy_word">Allergy</string>
+        <string name="allergy_pronunciation">AL ler JEE</string>
+        <string name="allergy_meaning">Reaction to certain foods or other things, may cause rash,
+            hives, sneezing, or other problems</string>
+
+        <string name="checkup_word">Checkup</string>
+        <string name="checkup_pronunciation">CHECK up</string>
+        <string name="checkup_meaning">A visit to the doctor when you are not sick, also called a
+            well visit</string>
+
+        <string name="co_pay_word">Co-Pay</string>
+        <string name="co_pay_pronunciation">CO paa</string>
+        <string name="co_pay_meaning">When you pay a set fee every time you go to the doctor and your
+            health insurance pays the rest</string>
+
+        <string name="emergency_word">Emergency</string>
+        <string name="emergency_pronunciation">ee MER gen see</string>
+        <string name="emergency_meaning">When there is a serious problem and you need help right
+            away</string>
+
+        <string name="fever_word">Fever</string>
+        <string name="fever_pronunciation">FEE ver</string>
+        <string name="fever_meaning">When your body temperature is too high</string>
+
+        <string name="fiber_word">Fiber</string>
+        <string name="fiber_pronunciation">FI bur</string>
+        <string name="fiber_meaning">Foods that help you feel full and helps your stool come
+            out</string>
+
+        <string name="generic_medicine_word">Generic Medicine</string>
+        <string name="generic_medicine_pronunciation">Gen AIR ik MED uh sin</string>
+        <string name="generic_medicine_meaning">Not a name brand medicine, usually less expensive than
+            the name brand</string>
+
+        <string name="headache_word">Headache</string>
+        <string name="headache_pronunciation">Hed A eek</string>
+        <string name="headache_meaning">Pain or ache in your head</string>
+
+        <string name="health_history_word">Health History</string>
+        <string name="health_history_pronunciation">H elth HISS tor EE</string>
+        <string name="health_history_meaning">The health problems you had in the past</string>
+
+        <string name="health_insurance_word">Health Insurance</string>
+        <string name="health_insurance_pronunciation">H elth In SHER uns</string>
+        <string name="health_insurance_meaning">A program where you pay each month and then the program
+            pays for your health care</string>
+
+        <string name="immunization_word">Immunization</string>
+        <string name="immunization_pronunciation">IM yoon ZA Shun</string>
+        <string name="immunization_meaning">The process of becoming immune or resistant to an
+            infectious disease, typically by getting vaccines. It is good to stay up to date on these
+            and check with your doctor on what you need</string>
+
+        <string name="label_word">Label</string>
+        <string name="label_pronunciation">LA bel</string>
+        <string name="label_meaning">On the bottle or box to describe the medicine and how to take
+            it</string>
+
+        <string name="medical_interpreter_word">Medical Interpreter</string>
+        <string name="medical_interpreter_pronunciation">MED uh cal in TERP ret er</string>
+        <string name="medical_interpreter_meaning">A person who is trained to translate information from
+            doctor to patient and patient to doctor</string>
+
+        <string name="medicine_word">Medicine</string>
+        <string name="medicine_pronunciation">MED uh sin</string>
+        <string name="medicine_meaning">Used when you are sick or have aches and pain to help make you
+            feel well</string>
+
+        <string name="milliliter_word">Milliliter</string>
+        <string name="milliliter_pronunciation">Mil e LEE Ter</string>
+        <string name="milliliter_meaning">Measurement of how much liquid medicine is needed\nCommon
+            abbreviation: mL</string>
+
+        <string name="nutrient_word">Nutrient</string>
+        <string name="nutrient_pronunciation">New TREE ent</string>
+        <string name="nutrient_meaning">In foods and needed by people to stay healthy</string>
+
+        <string name="nutrition_word">Nutrition</string>
+        <string name="nutrition_pronunciation">New TRISH un</string>
+        <string name="nutrition_meaning">How the body uses food to stay healthy</string>
+
+        <string name="obesity_word">Obesity</string>
+        <string name="obesity_pronunciation">oh BEE sit ee</string>
+        <string name="obesity_meaning">Being very overweight, a weight that is dangerous for your
+            health</string>
+
+        <string name="otc_word">Over-the-counter (OTC)</string>
+        <string name="otc_pronunciation">O ver the COUNT er</string>
+        <string name="otc_meaning">Medicine anyone can buy at the store, you do not need a
+            prescription</string>
+
+        <string name="pharmacy_word">Pharmacy</string>
+        <string name="pharmacy_pronunciation">FARM uh see</string>
+        <string name="pharmacy_meaning">Where you go to buy medicine</string>
+
+        <string name="pharmacist_word">Pharmacist</string>
+        <string name="pharmacist_pronunciation">FARM us sist</string>
+        <string name="pharmacist_meaning">A person who works in the pharmacy, a person who fills
+            prescriptions</string>
+
+        <string name="prescription_word">Prescription(Rx)</string>
+        <string name="prescription_pronunciation">Pre SCRIP shun</string>
+        <string name="prescription_meaning">You need one of these from a doctor to buy some kinds of
+            medicines</string>
+
+        <string name="primary_care_center_word">Primary Care Center</string>
+        <string name="primary_care_pronunciation">Pri Mar EE Kare Senter</string>
+        <string name="primary_care_meaning">The place you go for all your basic health care needs, could
+            be a health center, health clinic, or doctor\'s office</string>
+
+        <string name="recipe_word">Recipe</string>
+        <string name="recipe_pronunciation">Re si PEE</string>
+        <string name="recipe_meaning">List of what goes into a meal and how to prepare it</string>
+
+        <string name="side_effect_word">Side Effect</string>
+        <string name="side_effect_pronunciation">SIDE e fekt</string>
+        <string name="side_effect_meaning">An unwanted result or symptom, you get from taking some
+            medicines</string>
+
+        <string name="sodium_word">Sodium</string>
+        <string name="sodium_pronunciation">SO dee um</string>
+        <string name="sodium_meaning">Another word for salt</string>
+
+        <string name="sore_throat_word">Sore Throat</string>
+        <string name="sore_throat_pronunciation">SOR th ROT</string>
+        <string name="sore_throat_meaning">When your throat hurts, it is hard to swallow</string>
+
+        <string name="symptoms_word">Symptoms</string>
+        <string name="symptoms_pronunciation">SIMP tums</string>
+        <string name="symptoms_meaning">Something that happens in the body that shows you have an injury
+            or illness</string>
+
+        <string name="tablespoon_word">Tablespoon</string>
+        <string name="tablespoon_pronunciation">T A ble SPU n</string>
+        <string name="tablespoon_meaning">Common abbreviation: Tbsp\nEquals 3 teaspoons or 15 mL</string>
+
+        <string name="teaspoon_word">Teaspoon</string>
+        <string name="teaspoon_pronunciation">Ti SPU n</string>
+        <string name="teaspoon_meaning">Measurement of how much liquid medicine is needed. \nCommon
+            abbreviation: tsp\nEquals 5 mL</string>
+
+        <string name="warning_label_word">Warning Label</string>
+        <string name="warning_label_pronunciation">WAR ning LA bel</string>
+        <string name="warning_label_meaning">Describes dangers and what NOT to do when taking
+            medicines</string>
+
+        <string name="vaccine_word">Vaccine</string>
+        <string name="vaccine_pronunciation">Vak seen</string>
+        <string name="vaccine_meaning">Provides immunity against one or several diseases</string>
+
+        <string name="vitamins_word">Vitamins</string>
+        <string name="vitamins_pronunciation">Vita mins</string>
+        <string name="vitamins_meaning">A kind of nutrient in foods that help fight sickness and keep
+            the body strong and healthy</string>
+
+    <!--string name="_word"></string>
+    <string name="_pronunciation"></string>
+    <string name="_meaning"></string-->
+    <!--End Glossary-->
+
+    <!--Word Search-->
+    <string name="breath_word">Breathe</string>
+    <string name="insurance_word">Insurance</string>
+    <string name="copay_word">Copay</string>
+    <string name="cough_word">Cough</string>
+    <string name="interpreter_word">Interpreter</string>
+    <string name="patient_word">Patient</string>
+    <!--End Word Search-->
+
+    <!--Crossword Puzzle-->
+    <string name="calories_word">Calories</string>
+    <string name="calories_a">3. Too much sugar is bad for you, as it has lots of ________, which cause
+        weight gain, diabetes, and does not give your body energy.</string>
+
+    <string name="carbohydrates_word">Carbohydrates</string>
+    <string name="carbohydrates_a">4. This is a type of food that should be limited if you have
+        diabetes. When eaten, it is broken down into sugar. Bread has a large amount of these.</string>
+
+    <string name="diabetes_word">Diabetes</string>
+    <string name="diabetes_a">8. A disease that causes high level of glucose/sugar in your body,
+        leading to serious health problems.</string>
+
+    <string name="exercise_word">Exercise</string>
+    <string name="exercise_a">2. You should ________ regularly to help your heart stay strong.</string>
+
+    <string name="fruit_word">Fruit</string>
+    <string name="fruit_a">7. Apples, bananas, and oranges are examples of this.</string>
+
+    <string name="obese_word">Obese</string>
+    <string name="obese_a">5. This word means a person is very overweight, to the point of
+        unhealthiness.</string>
+
+    <string name="sodium_a">6. Another name for salt.</string>
+
+    <string name="vitamins_a">1. Found in foods that help your body stay healthy.</string>
+    <!--End Crossword Puzzle-->
+
+</resources>
